@@ -41,7 +41,7 @@ Explored sorting, filtering, and advanced options like slicers to organize and a
 
 I have learned to use Pivot Tables and Pivot Charts in Excel to summarize, analyze, and visualize large datasets efficiently, enabling deeper insights and dynamic reporting.
 
-![Pivot table, Charts, Slicer](https://github.com/user-attachments/assets/f67c3ee0-20cd-4d9f-ac4e-e41a4c26c5a5)
+![Pivot table, Charts, Slicer](https://github.com/user-attachments/assets/f6ce7576-266c-442c-8dc0-10274468c7a3)
 
 
 ### Data Visualization
