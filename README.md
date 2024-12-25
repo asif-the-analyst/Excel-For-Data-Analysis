@@ -7,10 +7,8 @@
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Filter, Sort and Conditional Formating](#filter-sort-and-conditional-formating)
 - [Pivot Tables and Pivot Charts](#pivot-tables-and-pivot-charts)
-- [Working with Large Dataset](#working-with-large-dataset)
 - [Data Visualization](#data-visualization)
 - [Power Query](#power-query)
-- 
 
 ### Overview
 
