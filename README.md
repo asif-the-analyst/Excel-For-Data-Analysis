@@ -17,7 +17,14 @@ I have completed learning Excel as part of my data analysis journey. During this
 ### Formulas
 
 - Basic - SUM, SUMIF, COUNT, COUNTA, COUNTIF, AVERAGE, AVERAGEIF, UNIQUE, DROP DOWN LIST, Product, IF
+
+  ![Excel Basic Formulas](https://github.com/user-attachments/assets/b36c1318-a99a-4550-b4d8-0b5bfb2489b3)
+
+  
 - Advanced - VLOOKUP, HLOOKUP, XLOOKUP, TEXT, INDEX MATCH, TEXT JOIN,SUBSTITUTE, CONCATENATE
+
+  ![Excel Advanced Formulas](https://github.com/user-attachments/assets/dd40d74b-4ce5-4bb7-a22d-3c8f88eac656)
+
 
 ### Data Cleaning and Preparation
 
@@ -27,9 +34,15 @@ I have learned data cleaning and preparation in Excel, including tasks like find
 
 Explored sorting, filtering, and advanced options like slicers to organize and analyze data effectively, along with conditional formatting to highlight patterns, trends, and key insights in datasets.
 
+![Filter, Sort, Conditional Formating](https://github.com/user-attachments/assets/a6acb883-81e5-4498-a9d8-854fe6f07a8e)
+
+
 ### Pivot Tables and Pivot Charts
 
 I have learned to use Pivot Tables and Pivot Charts in Excel to summarize, analyze, and visualize large datasets efficiently, enabling deeper insights and dynamic reporting.
+
+![Pivot table, Charts, Slicer](https://github.com/user-attachments/assets/f67c3ee0-20cd-4d9f-ac4e-e41a4c26c5a5)
+
 
 ### Data Visualization
 
