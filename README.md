@@ -55,7 +55,7 @@ As part of my data analysis journey, I have learned Power Query to streamline an
 - Data Import and Connection: Imported data from various sources like Excel, CSV, and databases.
 - Data Transformation: Cleaned and transformed data using features like Remove Columns, Split Columns, and Replace Values.
 - Advanced Transformations: Used Merging, Appending Queries, and creating custom columns for complex data workflows.
-- ntegration with Excel: Applied Power Query for seamless integration and analysis in Excel.
+- Integration with Excel: Applied Power Query for seamless integration and analysis in Excel.
 
 Check out my repository for detailed notes and practice examples showcasing my Excel skills for data analysis.
 
