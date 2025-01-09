@@ -1,4 +1,4 @@
-# Excel-For-Data-Analysis
+# Excel For Data Analysis
 
 ## Table of Contents
 
