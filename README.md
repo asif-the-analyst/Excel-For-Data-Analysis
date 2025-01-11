@@ -9,6 +9,7 @@
 - [Pivot Tables and Pivot Charts](#pivot-tables-and-pivot-charts)
 - [Data Visualization](#data-visualization)
 - [Power Query](#power-query)
+- [Connect with Me](#Connect-with-Me)
 
 ### Overview
 
@@ -57,7 +58,12 @@ As part of my data analysis journey, I have learned Power Query to streamline an
 - Advanced Transformations: Used Merging, Appending Queries, and creating custom columns for complex data workflows.
 - Integration with Excel: Applied Power Query for seamless integration and analysis in Excel.
 
-Check out my repository for detailed notes and practice examples showcasing my Excel skills for data analysis.
+### 🤝 Connect with Me
+Let’s connect and collaborate:
+#### LinkedIn: [LinkedIn Profile](www.linkedin.com/in/asif-the-analyst)
+#### GitHub: [GitHub Profile](https://github.com/asif-the-analyst)
+
+Check out my repository to download detailed notes and practice examples that showcase my Excel skills for data analysis.
 
 
 
