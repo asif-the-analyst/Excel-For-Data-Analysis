@@ -9,7 +9,7 @@
 - [Pivot Tables and Pivot Charts](#pivot-tables-and-pivot-charts)
 - [Data Visualization](#data-visualization)
 - [Power Query](#power-query)
-- [Connect with Me](#Connect-with-Me)
+- [🤝 Connect with Me](#-connect-with-me)
 
 ### Overview
 
